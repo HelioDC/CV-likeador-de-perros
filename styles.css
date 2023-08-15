@@ -2,7 +2,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: beige;
+    background-color: #f5f3ce;
 }
 
 h1{
@@ -13,7 +13,7 @@ h1{
 
 button{
     font-size: xx-large;
-    background-color: unset;
+    background-color: #c8c46c;
     padding: 1rem;
     margin: 10px 20px;
     border-radius: 10%;
@@ -21,6 +21,8 @@ button{
     -webkit-box-shadow: 4px 7px 19px -11px rgba(0,0,0,0.75);
     -moz-box-shadow: 4px 7px 19px -11px rgba(0,0,0,0.75);
     box-shadow: 4px 7px 19px -11px rgba(0,0,0,0.75);
+    border: none;
+    border-color: rgb(204, 197, 133);
 
 }
 
