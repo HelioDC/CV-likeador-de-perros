@@ -11,6 +11,9 @@ h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#buttonContainer{
+    margin-bottom: 10px;
+}
 button{
     font-size: xx-large;
     background-color: #c8c46c;
@@ -87,6 +90,12 @@ button:hover{
     height: 50px;
     width: 50px;
     border-radius: 5px;
+    transition: transform 0.3s ease;
+}
+
+.contenedorPerros img:hover{
+    transform: translate(25px, -25px) scale(2);
+    
 }
 
 #contenedorLikePerros{
