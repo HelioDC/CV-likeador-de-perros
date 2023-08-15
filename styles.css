@@ -21,7 +21,7 @@ button{
     -webkit-box-shadow: 4px 7px 19px -11px rgba(0,0,0,0.75);
     -moz-box-shadow: 4px 7px 19px -11px rgba(0,0,0,0.75);
     box-shadow: 4px 7px 19px -11px rgba(0,0,0,0.75);
-    border: none;
+    border: 0px solid;
     border-color: rgb(204, 197, 133);
 
 }
